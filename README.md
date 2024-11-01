@@ -12,3 +12,6 @@ Hope You like my game. :)
 
 ![3](https://github.com/user-attachments/assets/ab761b1a-204e-46b7-9310-b23a75f25e10)
 
+![2](https://github.com/user-attachments/assets/e88c0e1e-b377-4ad0-af1b-48093caf8cce)
+
+![1](https://github.com/user-attachments/assets/ebe9b562-f85b-455a-b030-88ecc43deb3d)
