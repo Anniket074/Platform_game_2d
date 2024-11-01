@@ -10,4 +10,5 @@ By making this game, I learned about making 2d terrain, player control and UI bu
 
 Hope You like my game. :) 
 
-(https://github.com/user-attachments/assets/ab761b1a-204e-46b7-9310-b23a75f25e10)
+![3](https://github.com/user-attachments/assets/ab761b1a-204e-46b7-9310-b23a75f25e10)
+
